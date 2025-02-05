@@ -5,7 +5,7 @@
 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 🚀 **Always Exploring New Technologies**
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Cool GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 ---
 
 ### 🛠️ **Tech Stack**
