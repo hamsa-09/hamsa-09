@@ -4,9 +4,8 @@
 💻 **Full-Stack Developer 
 🌱 **Currently Learning:** Data Structures & Algorithms (DSA)  
 🚀 **Always Exploring New Technologies**
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-*"Keep coding, keep learning!"*
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ---
 
 ### 🛠️ **Tech Stack**
