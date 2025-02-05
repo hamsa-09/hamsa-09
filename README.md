@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm HAMSAVARDHINI! 👋
 
 ## About Me
 I am a Computer Science Engineering student passionate about coding and problem-solving. I am currently learning Data Structures and Algorithms (DSA) and enjoy working on various projects.
@@ -17,10 +17,10 @@ I am a Computer Science Engineering student passionate about coding and problem-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsa-09&show_icons=true&theme=radical)
 
 ## LeetCode Progress
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-leetcode-username&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=hamsa-09&theme=dark)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
