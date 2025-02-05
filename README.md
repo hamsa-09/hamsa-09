@@ -36,15 +36,13 @@
 
 ### 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsa-09&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsa-09&layout=compact&theme=radical)
 
 ---
 
-### 🧠 **LeetCode Progress**
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=YOUR_LEETCODE_USERNAME&theme=dark)
 
 ---
 
