@@ -24,7 +24,7 @@ I am a Computer Science Engineering student passionate about coding and problem-
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsa-09&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsa-09&layout=compact&theme=radical)
 
 
 ## Connect with Me
