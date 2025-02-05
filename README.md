@@ -3,7 +3,7 @@
 ## About Me
 I am a Computer Science Engineering student passionate about coding and problem-solving. I am currently learning Data Structures and Algorithms (DSA) and enjoy working on various projects.
 ## Cool Coding GIF
-![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHWPfA961O/giphy.gif)
+![Coding GIF](https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif)
 ---
 
 ## Skills
