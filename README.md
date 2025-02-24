@@ -29,7 +29,9 @@ I am a Computer Science Engineering student passionate about coding and problem-
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/hamsavardhinibaskar/)
-
+- [Portfolio](hamsav.netlify.app)
+- [LeetCode](https://leetcode.com/u/Hamsa_09/)
+  
 
 
 
