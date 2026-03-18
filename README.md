@@ -1,93 +1,62 @@
 Hi, I'm Hamsavardhini 👋
-Building scalable systems • Exploring AI • Writing clean backend logic
 💡 About Me
 
-I’m a Computer Science Engineering student who enjoys turning ideas into real, working systems.
-I focus on backend development, system design, and building scalable applications that solve practical problems.
+I’m a full stack developer passionate about building scalable backend systems and real-world applications. I enjoy solving problems, writing clean code, and continuously learning new technologies.
 
-I’m currently strengthening my Data Structures & Algorithms skills and preparing for Google Summer of Code by actively exploring open-source projects.
 
-🚀 What Sets Me Apart
+🚀 What I’m Interested In
 
-I don’t just build projects — I focus on real-world problems and scalability
+Backend Development & System Design
 
-Strong understanding of API design, concurrency, and system workflows
+Open Source Contributions (Preparing for Google Summer of Code)
 
-Experience working on real-time systems and AI-based architectures
-
-Able to quickly learn and adapt to new technologies
+Building scalable and real-time applications
 
 🛠️ Tech Stack
 
-Languages
-Java • JavaScript
-
-Frontend
-React.js • HTML • CSS • Tailwind CSS
-
-Backend
-Spring Boot • Express.js • FastAPI
-
-Databases
-PostgreSQL • MySQL • MongoDB
-
-Tools & Technologies
-Git • GitHub • Postman • Podman
-LangChain • LangGraph
+Languages: Java, JavaScript
+Frontend: React.js, HTML, CSS, Tailwind CSS
+Backend: Spring Boot, Express.js, FastAPI
+Databases: PostgreSQL, MySQL, MongoDB
+Tools: Git, GitHub, Postman, Podman
+AI/Advanced: LangChain, LangGraph
 
 💼 Experience
 
-Software Development Intern – HashedIn by Deloitte
-Jan 2026 – Mar 2026
+Software Development Intern – HashedIn by Deloitte (Jan 2026 – Mar 2026)
 
-Built a workspace booking system using React, Spring Boot, and PostgreSQL
+Developed a full-stack workspace booking system (React + Spring Boot + PostgreSQL)
 
-Designed secure, scalable REST APIs with role-based access control
+Built secure REST APIs with role-based access control
 
-Implemented concurrency-safe booking logic to prevent conflicts
+Implemented concurrency-safe booking to prevent double bookings
 
 Enabled real-time updates using WebSockets
 
-Handled timezone-aware scheduling and booking workflows
+Designed scheduling and timezone-aware booking logic
 
-Additionally, worked on an AI multi-agent system:
+Also worked on an AI multi-agent system to convert product requirements into structured implementation using FastAPI and LangGraph.
 
-Converted product requirements into structured implementation pipelines
-
-Built using FastAPI, LangGraph, and RAG-based architecture
-
-Designed validation workflows with human-in-the-loop checkpoints
-
-📂 Featured Projects
+📂 Key Projects
 
 🔹 Workspace Booking System
-Real-time booking platform with concurrency handling and live availability tracking
+Real-time booking platform with concurrency handling and live updates
 
 🔹 AI Product-to-Code System
-Multi-agent system for planning, generating, and validating code
+Multi-agent pipeline for planning, generating, and validating code
 
 🔹 Transport Permit Management System
-End-to-end workflow automation with secure APIs and approval lifecycle
+Digitized workflow with secure APIs and approval system
 
 🔹 Project Title Registration Portal
-Digital platform for student submissions with real-time approval updates
+Streamlined student project submission and approval process
 
-📊 GitHub Insights
-
-
+📊 GitHub Stats
 
 
-🎯 Current Focus
 
-Practicing DSA for problem-solving and interviews
 
-Contributing to open source
-
-Building scalable backend systems
-
-Exploring AI + backend integrations
-
-🌐 Let’s Connect
+🌐 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/
 
