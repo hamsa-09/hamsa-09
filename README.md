@@ -1,40 +1,96 @@
-# Hi there, I'm HAMSAVARDHINI! 👋
+Hi, I'm Hamsavardhini 👋
+Building scalable systems • Exploring AI • Writing clean backend logic
+💡 About Me
 
-## About Me
-I am a Computer Science Engineering student passionate about coding and problem-solving. I am currently learning Data Structures and Algorithms (DSA) and enjoy working on various projects.
-## Cool Coding GIF
-![Coding GIF](https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif)
----
+I’m a Computer Science Engineering student who enjoys turning ideas into real, working systems.
+I focus on backend development, system design, and building scalable applications that solve practical problems.
 
-## Skills
+I’m currently strengthening my Data Structures & Algorithms skills and preparing for Google Summer of Code by actively exploring open-source projects.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-## Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-## Frameworks
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-## IDE'S
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+🚀 What Sets Me Apart
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamsa-09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsa-09&layout=compact&theme=radical)
+I don’t just build projects — I focus on real-world problems and scalability
+
+Strong understanding of API design, concurrency, and system workflows
+
+Experience working on real-time systems and AI-based architectures
+
+Able to quickly learn and adapt to new technologies
+
+🛠️ Tech Stack
+
+Languages
+Java • JavaScript
+
+Frontend
+React.js • HTML • CSS • Tailwind CSS
+
+Backend
+Spring Boot • Express.js • FastAPI
+
+Databases
+PostgreSQL • MySQL • MongoDB
+
+Tools & Technologies
+Git • GitHub • Postman • Podman
+LangChain • LangGraph
+
+💼 Experience
+
+Software Development Intern – HashedIn by Deloitte
+Jan 2026 – Mar 2026
+
+Built a workspace booking system using React, Spring Boot, and PostgreSQL
+
+Designed secure, scalable REST APIs with role-based access control
+
+Implemented concurrency-safe booking logic to prevent conflicts
+
+Enabled real-time updates using WebSockets
+
+Handled timezone-aware scheduling and booking workflows
+
+Additionally, worked on an AI multi-agent system:
+
+Converted product requirements into structured implementation pipelines
+
+Built using FastAPI, LangGraph, and RAG-based architecture
+
+Designed validation workflows with human-in-the-loop checkpoints
+
+📂 Featured Projects
+
+🔹 Workspace Booking System
+Real-time booking platform with concurrency handling and live availability tracking
+
+🔹 AI Product-to-Code System
+Multi-agent system for planning, generating, and validating code
+
+🔹 Transport Permit Management System
+End-to-end workflow automation with secure APIs and approval lifecycle
+
+🔹 Project Title Registration Portal
+Digital platform for student submissions with real-time approval updates
+
+📊 GitHub Insights
 
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/hamsavardhinibaskar/)
-- [Portfolio](https://hamsav.netlify.app/)
-- [LeetCode](https://leetcode.com/u/Hamsa_09/)
-  
 
 
+🎯 Current Focus
 
----
+Practicing DSA for problem-solving and interviews
 
-Feel free to reach out to me for collaborations or just to say hi! 😊
+Contributing to open source
+
+Building scalable backend systems
+
+Exploring AI + backend integrations
+
+🌐 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/
+
+Portfolio: https://hamsav.netlify.app/
+
+LeetCode: https://leetcode.com/u/Hamsa_09/
