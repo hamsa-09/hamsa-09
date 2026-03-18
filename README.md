@@ -1,65 +1,96 @@
-Hi, I'm Hamsavardhini 👋
-💡 About Me
+# Hi, I'm Hamsavardhini 👋  
+### Building scalable systems • Exploring AI • Backend Enthusiast
 
-I’m a full stack developer passionate about building scalable backend systems and real-world applications. I enjoy solving problems, writing clean code, and continuously learning new technologies.
+---
 
+### 💡 About Me  
+I’m a Computer Science Engineering student passionate about building real-world applications and scalable backend systems.  
+I enjoy solving problems, designing efficient APIs, and continuously learning new technologies.
 
-🚀 What I’m Interested In
+Currently, I’m focusing on **Data Structures & Algorithms** and preparing for **Google Summer of Code (GSoC)** by exploring open-source contributions.
 
-Backend Development & System Design
+---
 
-Open Source Contributions (Preparing for Google Summer of Code)
+### 🚀 What Sets Me Apart  
+- Focus on **real-world, scalable solutions**  
+- Strong in **backend development & API design**  
+- Experience with **real-time systems and concurrency handling**  
+- Quick learner with interest in **AI + backend integration**  
 
-Building scalable and real-time applications
+---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-Languages: Java, JavaScript
-Frontend: React.js, HTML, CSS, Tailwind CSS
-Backend: Spring Boot, Express.js, FastAPI
-Databases: PostgreSQL, MySQL, MongoDB
-Tools: Git, GitHub, Postman, Podman
-AI/Advanced: LangChain, LangGraph
+**Languages**  
+Java • JavaScript  
 
-💼 Experience
+**Frontend**  
+React.js • HTML • CSS • Tailwind CSS  
 
-Software Development Intern – HashedIn by Deloitte (Jan 2026 – Mar 2026)
+**Backend**  
+Spring Boot • Express.js • FastAPI  
 
-Developed a full-stack workspace booking system (React + Spring Boot + PostgreSQL)
+**Databases**  
+PostgreSQL • MySQL • MongoDB  
 
-Built secure REST APIs with role-based access control
+**Tools & Technologies**  
+Git • GitHub • Postman • Podman  
+LangChain • LangGraph  
 
-Implemented concurrency-safe booking to prevent double bookings
+---
 
-Enabled real-time updates using WebSockets
+### 💼 Experience  
 
-Designed scheduling and timezone-aware booking logic
+**Software Development Intern – HashedIn by Deloitte**  
+*Jan 2026 – Mar 2026*  
 
-Also worked on an AI multi-agent system to convert product requirements into structured implementation using FastAPI and LangGraph.
+- Built a workspace booking system using React, Spring Boot, and PostgreSQL  
+- Designed secure REST APIs with role-based access control  
+- Implemented concurrency-safe booking logic to prevent double bookings  
+- Enabled real-time updates using WebSockets  
+- Developed timezone-aware scheduling and booking workflows  
 
-📂 Key Projects
+Additionally worked on an **AI multi-agent system**:  
+- Converted product requirements into structured implementation pipelines  
+- Built using FastAPI, LangGraph, and RAG-based architecture  
+- Designed validation workflows with human-in-the-loop checkpoints  
 
-🔹 Workspace Booking System
-Real-time booking platform with concurrency handling and live updates
+---
 
-🔹 AI Product-to-Code System
-Multi-agent pipeline for planning, generating, and validating code
+### 📂 Featured Projects  
 
-🔹 Transport Permit Management System
-Digitized workflow with secure APIs and approval system
+**🔹 Workspace Booking System**  
+Real-time booking platform with concurrency handling and live availability tracking  
 
-🔹 Project Title Registration Portal
-Streamlined student project submission and approval process
+**🔹 AI Product-to-Code System**  
+Multi-agent system for planning, generating, and validating code  
 
-📊 GitHub Stats
+**🔹 Transport Permit Management System**  
+Workflow automation system with secure APIs and approval lifecycle  
 
+**🔹 Project Title Registration Portal**  
+Platform for managing student project submissions and approvals  
 
+---
 
+### 📊 GitHub Insights  
 
-🌐 Connect with Me
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamsa-09&show_icons=true&theme=radical&hide_border=true)
 
-LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamsa-09&layout=compact&theme=radical&hide_border=true)
 
-Portfolio: https://hamsav.netlify.app/
+---
 
-LeetCode: https://leetcode.com/u/Hamsa_09/
+### 🎯 Current Focus  
+- Practicing DSA for problem-solving  
+- Contributing to open source  
+- Building scalable backend systems  
+- Exploring AI + system design  
+
+---
+
+### 🌐 Connect with Me  
+
+- LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/  
+- Portfolio: https://hamsav.netlify.app/  
+- LeetCode: https://leetcode.com/u/Hamsa_09/  
