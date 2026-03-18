@@ -5,6 +5,7 @@
 ### 💡 About Me  
 I’m a Full stack developer passionate about building real-world applications and scalable projects.  
 I enjoy solving problems, designing efficient APIs, and continuously learning new technologies.
+
 ---
 
 ### 🚀 What Sets Me Apart  
