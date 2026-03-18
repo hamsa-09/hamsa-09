@@ -9,7 +9,7 @@ I enjoy solving problems, designing efficient APIs, and continuously learning ne
 
 ### 🚀 What Sets Me Apart  
 - Focus on **real-world, scalable solutions**  
-- Strong in **backend development & API design**  
+- Strong in **full stack development**  
 - Experience with **real-time systems and concurrency handling**  
 - Quick learner with interest in **AI + backend integration**  
 
@@ -80,7 +80,7 @@ Platform for managing student project submissions and approvals
 ### 🎯 Current Focus  
 - Practicing DSA for problem-solving  
 - Contributing to open source  
-- Building scalable backend systems  
+- Building scalable projects  
 - Exploring AI + system design  
 
 ---
