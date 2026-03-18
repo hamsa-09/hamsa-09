@@ -1,14 +1,10 @@
 # Hi, I'm Hamsavardhini 👋  
-### Building scalable systems • Exploring AI • Backend Enthusiast
-
+### Building scalable systems • Exploring AI • Full Stack Developer
 ---
 
 ### 💡 About Me  
-I’m a Computer Science Engineering student passionate about building real-world applications and scalable backend systems.  
+I’m a Full stack developer passionate about building real-world applications and scalable projects.  
 I enjoy solving problems, designing efficient APIs, and continuously learning new technologies.
-
-Currently, I’m focusing on **Data Structures & Algorithms** and preparing for **Google Summer of Code (GSoC)** by exploring open-source contributions.
-
 ---
 
 ### 🚀 What Sets Me Apart  
