@@ -91,6 +91,6 @@ Platform for managing student project submissions and approvals
 
 ### 🌐 Connect with Me  
 
-- LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/  
-- Portfolio: https://hamsav.netlify.app/  
+- LinkedIn: https://www.linkedin.com/in/hamsavardhinibaskar/
+- Email: hamsavardhinibaskar@gmail.com
 - LeetCode: https://leetcode.com/u/Hamsa_09/  
